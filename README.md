@@ -1,1 +1,1 @@
-# Sistema-apicultura
+Este repositório abriga o código-fonte de um sistema web simples desenvolvido em Python com Django, como parte de uma avaliação na disciplina de Gestão e Qualidade de Software. O sistema oferece funcionalidades básicas para o cadastramento de espécies de abelhas e coletas, incluindo o registro de informações, organização por data e geração de relatórios. É possivel que o usuario crie, altere e exclua tanto as espécies como as coletas que desejar. Todas as funcionalidades foram submetidas a testes de qualidade para garantir seu desempenho confiável. 
